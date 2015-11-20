@@ -1,0 +1,45 @@
+    1  git clone https://github.com/prasad02/gitTraining.git
+    2  ls
+    3  cd gitTraining/
+    4  touch myfile.txt
+    5  ls
+    6  git status
+    7  git add myfile.txt
+    8  ls
+    9  git status
+   10  git commit -n "my first file"
+   11  git commit - n "my first file"
+   12  git commit -n "my first file"
+   13  ls
+   14  got statis
+   15  git status
+   16  git commit -n "my first file"
+   17  git commit -m "my first file"
+   18  git push -u origin master
+   19  git checkout -b development
+   20  checkout development
+   21  git checkout development
+   22  git checkout release
+   23  pwd
+   24  ls
+   25  git branch release
+   26  ls
+   27  git checkout release
+   28  git branch
+   29  touch myfile2.txt
+   30  git commit - m "initial commit"
+   31  git commit -m "initial commit"
+   32  ls
+   33  git add  myfile2.txt
+   34  git commit -m "initial commit"
+   35  ls
+   36  git checkout master
+   37  ls
+   38  git merge release
+   39  git push origin master
+   40  git checkout development
+   41  git push origin development
+   42* 
+   43  history 2>training2history.txt
+   44  cat taining2history.txt
+   45  history >> training2history.txt
